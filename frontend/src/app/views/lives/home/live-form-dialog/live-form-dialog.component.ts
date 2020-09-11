@@ -1,4 +1,4 @@
-import { LiveService } from './../../../shared/service/live.service';
+import { LiveService } from 'src/app/shared/service/live.service';
 import { Component, OnInit } from '@angular/core';
 import { MatDialogRef } from '@angular/material/dialog';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
